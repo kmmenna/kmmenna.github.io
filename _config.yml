@@ -1,0 +1,13 @@
+title: Kaoê Menna
+lang: pt_br
+description: >-
+  Write an awesome description
+twitter_username: KMMenna
+github_username:  kmmenna
+email: contato@kaoemenna.com.br
+
+# Build settings
+timezone: America/Sao_Paulo
+encoding: utf-8
+markdown: kramdown
+theme: minima
