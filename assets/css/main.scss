@@ -1,3 +1,10 @@
 ---
 ---
-
+.siding {
+    background: black;
+    .center-image {
+        display: block;
+        margin: calc(50vh - 175px) auto;
+        width: 350px;
+    }
+}
