@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kmmenna
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kaoemenna.dev
+  * I am kmmenna (https://keybase.io/kmmenna) on keybase.
+  * I have a public key ASCrFOnCTsa3c85Rr69VN2NYULqCoc1JiiJOGByCruTgRQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ab14e9c24ec6b773ce51afaf5537635850ba82a1cd498a224e181c82aee4e0450a",
+      "host": "keybase.io",
+      "kid": "0120ab14e9c24ec6b773ce51afaf5537635850ba82a1cd498a224e181c82aee4e0450a",
+      "uid": "ebf695d4489fad784b946737dd293419",
+      "username": "kmmenna"
+    },
+    "merkle_root": {
+      "ctime": 1592081282,
+      "hash": "daa10ff95c42bf49f8d8d2ec0a520b78c0caa36a7e7c30c49ee058285c4ec9a914b7958fc36a54973b41755895de261cf7e5eceb96b8fcdd1ec1dc69b645232b",
+      "hash_meta": "b199b5262cb5d42ca6b2edd572d2b7935bc9dbdc270fb8ab736b778f577df79b",
+      "seqno": 16655937
+    },
+    "service": {
+      "entropy": "tyflEkNi9UUu+DK69roIvXUh",
+      "hostname": "kaoemenna.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1592081302,
+  "expire_in": 504576000,
+  "prev": "f323e2a9278856db9a0ff94e537efa4d5235d0a2905593e83aee77ce58b522ca",
+  "seqno": 31,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqxTpwk7Gt3POUa+vVTdjWFC6gqHNSYoiThgcgq7k4EUKp3BheWxvYWTESpcCH8Qg8yPiqSeIVtuaD/lOU376TVI10KKQVZPoOu53zli1IsrEIKTHSrp1D6rScJR9PP/QuldgQx0kefhQjKqyMgaRvtPcAgHCo3NpZ8RAQtihinJEsSuyMcU/Af5pp+Q/l05Jd553Ov5XH6xTnBAk1xG4AGWfgDmuJwHogsfx3Et0iyihZG8Z2dPizOYSBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINpLh2N2jyBPxeE7CZjrj+TI0BYbLo3qnhbVkhAjVH66o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kmmenna
+
+==================================================================
